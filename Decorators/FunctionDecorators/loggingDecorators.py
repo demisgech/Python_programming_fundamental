@@ -13,4 +13,4 @@ def log_decorator(function):
 def add(x, y):
     return x + y
 
-print(add(9,89))
+add(x=9,y=89)
